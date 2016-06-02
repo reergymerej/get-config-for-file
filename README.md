@@ -1,3 +1,5 @@
+ESLint's [getConfigForFile][1] can't find eslint-config-airbnb config.
+
 **setup**  
 1. clone and `npm i`
 1. install eslint-config-airbnb globally
@@ -29,3 +31,5 @@ node ./index.js
 ```
 
     hooray!
+
+[1]: http://eslint.org/docs/developer-guide/nodejs-api#getconfigforfile
